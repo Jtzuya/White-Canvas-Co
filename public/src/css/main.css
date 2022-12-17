@@ -571,3 +571,93 @@ li {
 .footer--misc {
     color: rgb(254 254 254 / 35%);
 }
+
+/*============
+    PRODUCT PAGE
+============*/
+.product__wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.product--image__wrapper {
+    border-right: 0.5px solid #303030;
+    overflow-x: hidden;
+}
+
+.product--image__wrapper img {
+    max-width: 100%;
+}
+
+.product--contents__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-flow: column;
+    padding: 33px;
+}
+
+.product--title {
+    font-size: 40px;
+    line-height: 113%;
+}
+
+.reviews {
+    margin-top: 25px;
+}
+
+.selector {
+    margin-top: 25px;
+    padding-block: 4px;
+    display: flex;
+    gap: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.color--swatches {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.color {
+    height: 26px;
+    width: 26px;
+    border: 0.5px solid #151515;
+    border-radius: 50%;
+}
+
+.color--1 {
+    background-color: #A2C084;
+}
+
+.color--2 {
+    background-color: #81C0D4;
+}
+
+.color--3 {
+    background-color: #E5A6CC;
+}
+
+.product--description,
+.buy--buttons {
+    margin-top: 25px;
+}
+
+.buy--buttons {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+.buy--buttons .add--to--cart,
+.buy--buttons .checkout--btn {
+    background-color: #303030;
+    color: #ffffff;
+}
+
+.share {
+    margin-top: 48px;
+}

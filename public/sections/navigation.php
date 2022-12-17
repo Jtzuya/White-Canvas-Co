@@ -1,7 +1,7 @@
 <nav>
     <div class="header__nav">
         <div class="logo">
-            <a href="#">
+            <a href="/index.php">
                 <img src="/public/assets/whitecanvasco_logo.svg" alt="White Canvas Co">
             </a>
         </div>
@@ -67,7 +67,7 @@
             <li class="misc"><a href="#"><img src="/public/assets/icons/search-ico.svg" alt="Search icon"></a></li>
             <li class="misc"><a href="#"><img src="/public/assets/icons/cart-ico.svg" alt="Your Cart"></a></li>
             <li class="misc"><a href="#"><img src="/public/assets/icons/user-ico.svg" alt="Login"></a></li>
-            <li class="misc"><a href="#" class="cta--primary">Sign Up</a></li>
+            <li class="misc"><a href="/signup.php" class="cta--primary">Sign Up</a></li>
         </ul>
     </div>
 </nav>

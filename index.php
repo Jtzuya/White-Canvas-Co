@@ -1,6 +1,4 @@
-<?php
-$directory = dirname(__FILE__);
-?>
+<?php $directory = dirname(__FILE__); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,9 +13,7 @@ $directory = dirname(__FILE__);
 </head>
 
 <body>
-    <div class="section__wrapper">
-        <?php include($directory . "/public/templates/homepage.php"); ?>
-    </div>
+    <?php include($directory . "/public/templates/homepage.php"); ?>
 </body>
 
 <script src="./src/js/app.js"></script>
