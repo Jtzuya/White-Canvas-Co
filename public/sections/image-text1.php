@@ -5,6 +5,8 @@
             <p class="body">Want it all? Get all templates in one convenient bundle.</p>
             <a href="#" class="cta--secondary">Purchase</a>
         </div>
-        <div class="split--image_wrapper" style="background-image: url('/public/assets/split-image/split-image1.png')"></div>
+        <div class="split--image_wrapper">
+            <img src="/public/assets/split-image/split-image1.png" alt="">
+        </div>
     </div>
 </section>

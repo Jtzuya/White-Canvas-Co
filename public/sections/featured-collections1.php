@@ -1,5 +1,5 @@
 <section>
-    <div class="featured--collections__wrapper">
+    <div class="featured--collections__wrapper collections--v1">
         <h3 class="heading-3">Featured Templates</h3>
         <div class="collections__wrapper">
             <div class="collection">
