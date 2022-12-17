@@ -1,3 +1,8 @@
+###### Main file directory 
+```php
+  /public/index.php  
+```
+
 ##### vanillaPHP Fullstack Build
 - [FIGMA MOCKUP](https://www.figma.com/file/XASnQup5rTAVB1IkJJH3xq/New-Website-(Copy)?node-id=0%3A1&t=jVosYvYIPrSVmvAt-1)
 
