@@ -8,9 +8,10 @@
   php -S localhost:9000
 ```
 - Choose localhost server between 3000 ~ 9999
-
-
-##### vanillaPHP Fullstack Build
+<br>
+<hr>
+<br>
+### vanillaPHP Fullstack Build
 - [FIGMA MOCKUP](https://www.figma.com/file/XASnQup5rTAVB1IkJJH3xq/New-Website-(Copy)?node-id=0%3A1&t=jVosYvYIPrSVmvAt-1)
 
 ###### Goal 🏆
