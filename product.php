@@ -13,9 +13,7 @@
 </head>
 
 <body>
-    <?php include($directory . "/public/templates/homepage.php"); ?>
+    <?php include($directory . "/public/templates/productPage.php"); ?>
 </body>
-
-<script src="./src/js/app.js"></script>
 
 </html>
