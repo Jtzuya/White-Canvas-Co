@@ -1,6 +1,6 @@
 ###### Main file directory 
 ```php
-  /public/index.php  
+  /index.php  
 ```
 
 ##### vanillaPHP Fullstack Build
