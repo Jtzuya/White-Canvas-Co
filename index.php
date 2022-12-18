@@ -14,8 +14,8 @@
 
 <body>
     <?php include($directory . "/public/templates/homepage.php"); ?>
+    <script src="/public/src/js/app.js"></script>
 </body>
 
-<script src="./src/js/app.js"></script>
 
 </html>

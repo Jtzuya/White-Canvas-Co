@@ -14,6 +14,7 @@
 
 <body>
     <?php include($directory . "/public/templates/productPage.php"); ?>
+    <script src="/public/src/js/app.js"></script>
 </body>
 
 </html>
