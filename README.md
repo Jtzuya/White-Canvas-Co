@@ -1,5 +1,3 @@
-***[See how it looks right now](https://www.loom.com/share/13b527130c12453ab8b3419edb21ff60)***
-
 ###### Main file directory 
 ```php
   /index.php  
