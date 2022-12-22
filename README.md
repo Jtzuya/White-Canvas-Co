@@ -12,7 +12,7 @@
 <hr>
 <br>
 
-### Vanilla PHP CRUD Build
+### Vanilla PHP Build
 *Design Here:* ***[FIGMA MOCKUP](https://www.figma.com/file/XASnQup5rTAVB1IkJJH3xq/New-Website-(Copy)?node-id=0%3A1&t=jVosYvYIPrSVmvAt-1)***
 
 ###### Goal 🏆
