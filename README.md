@@ -26,4 +26,3 @@
 - Stripe/Paymongo API (optional)
 - Login/Signup (i.e. OAuth) (optional)
 - Mobile responsive (optional)
-3. Deadline 2 weeks from now (December 30~31, 2022)
